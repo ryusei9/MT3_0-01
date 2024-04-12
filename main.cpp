@@ -2,7 +2,7 @@
 #include <Math.h>
 
 const char kWindowTitle[] = "LE2B_13_サトウ_リュウセイ_MT3_0-01";
-
+// 3次元
 struct Vector3 {
 	float x;
 	float y;
